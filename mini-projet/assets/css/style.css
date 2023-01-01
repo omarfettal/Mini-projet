@@ -1,0 +1,45 @@
+.custom-background {
+    background-image: url('../images/comment_code.jpeg');
+    background-size: cover;
+}
+
+.cascading-right {
+    background: hsla(0, 0%, 100%, 0.55);
+    backdrop-filter: blur(30px);
+}
+
+.error input {
+    border: 1px solid red;
+}
+
+.error small {
+    color: red;
+}
+
+.success input {
+    border: 1px solid green;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #ccc;
+}
+
+.vh-80 {
+    min-height: 80vh;
+}
+
+.vh-70 {
+    min-height: 70vh;
+}
+
+.black-opacity {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.section-title {
+    font-style: oblique;
+}
+
+.brown-text{
+    color: sienna;
+}
